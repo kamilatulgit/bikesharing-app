@@ -46,7 +46,7 @@ cd dashboard
 ```
 * Run streamlit
 ```	
-streamlit run Proyek Analisis Data Dicoding_KA_dashboard.py
+streamlit run Proyek_Analisis_Data_Dicoding_KA_dashboard.py
 ```
 * Cara akses lainnya: [Streamlit Saya](https://bit.ly/StreamlitSaya)
 
