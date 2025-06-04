@@ -23,19 +23,28 @@ Untuk pembuatan dashboard sendiri, hasil deploy dengan streamlit!
 ```
 git clone https://github.com/kamilatulgit/bikesharingka-app
 ```
-
-* Dashboard directory
+* Set up virtual env terlebih dahulu
 ```
-cd bikesharingka-app\dashboard		
-streamlit run dashboard.py
+python -m venv env
+env\Scripts\activate  
 ```
-
+* Instal dependensi requirements.txt
+```
+pip install -r requirements.txt
+```
 * Pastikan Streamlit sudah terinstall
 ```
 pip install streamlit
 ```
-
-* Cara akses lainnya [Streamlit Saya](https://bit.ly/StreamlitSaya)
+* Dashboard directory
+```
+cd bikesharingka-app\dashboard
+```
+* Run streamlit
+```	
+streamlit run Proyek Analisis Data Dicoding_KA_dashboard.py
+```
+* Cara akses lainnya: [Streamlit Saya](https://bit.ly/StreamlitSaya)
 
 
 ## Dashboard preview
